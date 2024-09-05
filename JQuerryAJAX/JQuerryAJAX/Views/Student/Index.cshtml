@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Student Index";
+}
+
+<div class="row">
+    <h1 class="bg-info text-white">Student Index View</h1>
+</div>
+
+<div class="row">
+    <input type="text" id="txtStudentID" />
+    <br />
+    <input type="button" id="getStudent" value="Get Student" />
+</div>
+
+<div class="row">
+    <p>First Name : <strong id="FirstName"></strong></p>
+    <p>Last Name : <strong id="LastName"></strong></p>
+    <p>Student Number : <strong id="StudentNumber"></strong></p>
+    <p>Class Number : <strong id="Class"></strong></p>
+</div>
+
+<script>
+
+    //Burası çözülecek... Error veriyor...
+    $(document).ready(function () {
+        $("#getStudent").click(function () {
+            var studentID = $("#txtStudentID").val();
+            if (studentID == "") {
+                alert("Öğrenci ID alanını boş bırakmayınız...");
+                return;
+            }
+            $.ajax({
+                type: 'POST',
+                url: '/Student/GetStudent/' + studentID,
+                dataType: "json",
+                success: function (result) {
+                    $("#FirstName").html(result.firstName);
+                    $("#LastName").html(result.lastName);
+                    $("#StudentNumber").html(result.studentNumber);
+                    $("#Class").html(result.studentClass);
+                },
+                error: function (req, status, error) {
+                    alert("Hata alındı. Tekrar deneyiniz...")
+                    console.log("status : " + status + ";error : " + error);
+                }
+            });
+        });
+    });
+</script>

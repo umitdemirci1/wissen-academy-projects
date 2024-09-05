@@ -1,0 +1,56 @@
+﻿@using ViewModelApplication.Models.ViewModel;
+@model FutbolcuAddVM
+@{
+    ViewData["Title"] = "Yeni Futbolcu Ekle";
+}
+
+<h1 class="bg-info text-white">Yeni Futbolcu Ekle</h1>
+<hr />
+<div class="row">
+    <div class="col-lg-8">
+        <form asp-action="Create" asp-controller="Futbolcu" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="mb-2">
+                <label asp-for="@Model.Futbolcu.FutbolcuID" class="form-control">Futbolcu ID</label>
+                <input asp-for="@Model.Futbolcu.FutbolcuID" class="form-control" />
+                <span asp-validation-for="@Model.Futbolcu.FutbolcuID" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="@Model.Futbolcu.AdiSoyadi" class="form-control">Futbolcu Adı</label>
+                <input asp-for="@Model.Futbolcu.AdiSoyadi" class="form-control" />
+                <span asp-validation-for="@Model.Futbolcu.AdiSoyadi" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="@Model.Futbolcu.Yas" class="form-control">Futbolcu Yaşı</label>
+                <input asp-for="@Model.Futbolcu.Yas" class="form-control" />
+                <span asp-validation-for="@Model.Futbolcu.Yas" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="@Model.Futbolcu.MevkiID" class="form-control">Mevki</label>
+                <select asp-for="@Model.Futbolcu.MevkiID" class="form-control">
+                    <option>Lütfen Mevki Seçiniz...</option>
+                    @foreach (Mevki item in Model.Mevkiler)
+                    {
+                        <option value="@item.MevkiID">@item.MevkiAdi</option>
+                    }
+                </select>
+                <span asp-validation-for="@Model.Futbolcu.MevkiID" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="@Model.Futbolcu.TakimID" class="form-control">Mevki</label>
+                <select asp-for="@Model.Futbolcu.TakimID" class="form-control">
+                    <option>Lütfen Mevki Seçiniz...</option>
+                    @foreach (Takim item in Model.Takimlar)
+                    {
+                        <option value="@item.TakimID">@item.TakimAdi</option>
+                    }
+                </select>
+                <span asp-validation-for="@Model.Futbolcu.TakimID" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <input type="submit" value="Yeni Futbolcu Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

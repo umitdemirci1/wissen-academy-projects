@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\admin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\admin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\role\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\migrations\\20240807081046_addidentityusercolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\migrations\\20240807081046_addidentityusercolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\customtaghelpers\\roleuserth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\customtaghelpers\\roleuserth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\identitymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\identitymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\identitymanagement\\identitymanagement\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA14066-8862-492E-A6FD-47FE1E139A9B}|IdentityManagement\\IdentityManagement.csproj|solutionrelative:identitymanagement\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Claims\\Create.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Claims\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Claims\\Create.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Claims\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:45:10.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Claims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Claims\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:23:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\IdentityManagement.csproj",
+              "RelativeDocumentMoniker": "IdentityManagement\\IdentityManagement.csproj",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\IdentityManagement.csproj",
+              "RelativeToolTip": "IdentityManagement\\IdentityManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T07:55:55.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "IdentityManagement\\Controllers\\ClaimsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:22:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Role\\Update.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Role\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Role\\Update.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Role\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:27:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "IdentityManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwJkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:26:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Admin\\Update.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Admin\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Admin\\Update.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Admin\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:24:20.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:16:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\User.cs",
+              "RelativeToolTip": "IdentityManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:12:46.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240807081046_AddIdentityUserColumns.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Migrations\\20240807081046_AddIdentityUserColumns.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Migrations\\20240807081046_AddIdentityUserColumns.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Migrations\\20240807081046_AddIdentityUserColumns.cs",
+              "RelativeToolTip": "IdentityManagement\\Migrations\\20240807081046_AddIdentityUserColumns.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:10:46.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\Country.cs",
+              "RelativeToolTip": "IdentityManagement\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:08:46.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Models\\AppUser.cs",
+              "RelativeToolTip": "IdentityManagement\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:07:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T07:55:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleUserTH.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\CustomTagHelpers\\RoleUserTH.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\CustomTagHelpers\\RoleUserTH.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\CustomTagHelpers\\RoleUserTH.cs",
+              "RelativeToolTip": "IdentityManagement\\CustomTagHelpers\\RoleUserTH.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:41:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T07:39:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "IdentityManagement\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "IdentityManagement\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:56:29.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IdentityManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:55:23.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Program.cs",
+              "RelativeToolTip": "IdentityManagement\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:39:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IdentityManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:45:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "IdentityManagement\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\IdentityManagement\\IdentityManagement\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "IdentityManagement\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAApwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:56:54.105Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1889,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

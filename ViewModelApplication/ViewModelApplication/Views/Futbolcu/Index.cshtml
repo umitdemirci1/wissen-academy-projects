@@ -1,0 +1,50 @@
+﻿@model ViewModelApplication.Models.ViewModel.FutbolcuAddVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div>
+    <h4>Futbolcu</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Futbolcu.FutbolcuID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Futbolcu.FutbolcuID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Futbolcu.AdiSoyadi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Futbolcu.AdiSoyadi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Futbolcu.Yas)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Futbolcu.Yas)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Futbolcu.Mevki.MevkiID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Futbolcu.Mevki.MevkiID)
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Futbolcu.Mevki.MevkiAdi)
+        </dd>
+        <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Futbolcu.Takim.TakimID)
+        </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Futbolcu.Takim.TakimID)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Create">Back to List</a>
+</div>

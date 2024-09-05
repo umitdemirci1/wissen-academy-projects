@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WeatherForecast>
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<div class="panel">
+    <div class="panel-heading">
+        Weather Forecast Information
+    </div>
+    <div class="panel-body">
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>Date</th>
+                <th>TemperatureC</th>
+                <th>TemperatureF</th>
+                <th>Summary</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Date</td>
+                    <td>@item.TemperatureC</td>
+                    <td>@item.TemperatureF</td>
+                    <td>@item.Summary</td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\projects\dotnet\Istka\KatmanliMimari\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

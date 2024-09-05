@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\corssample\\corssample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|solutionrelative:corssample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\corssample\\corssample\\model\\queryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|solutionrelative:corssample\\model\\queryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\corssample\\corssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|solutionrelative:corssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\corssample\\corssample\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D22CD7-2D53-4854-A8FF-9704240D4475}|CORSSample\\CORSSample.csproj|solutionrelative:corssample\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CORSSample\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CORSSample\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:11:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryParams.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Model\\QueryParams.cs",
+              "RelativeDocumentMoniker": "CORSSample\\Model\\QueryParams.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Model\\QueryParams.cs",
+              "RelativeToolTip": "CORSSample\\Model\\QueryParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:10:48.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "CORSSample\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Model\\Student.cs",
+              "RelativeToolTip": "CORSSample\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:09:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Program.cs",
+              "RelativeDocumentMoniker": "CORSSample\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\CORSSample\\CORSSample\\Program.cs",
+              "RelativeToolTip": "CORSSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:01:09.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1889,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

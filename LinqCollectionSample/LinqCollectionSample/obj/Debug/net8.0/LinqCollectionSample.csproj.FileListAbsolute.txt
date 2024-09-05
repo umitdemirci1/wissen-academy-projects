@@ -1,0 +1,14 @@
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\bin\Debug\net8.0\LinqCollectionSample.exe
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\bin\Debug\net8.0\LinqCollectionSample.deps.json
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\bin\Debug\net8.0\LinqCollectionSample.runtimeconfig.json
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\bin\Debug\net8.0\LinqCollectionSample.dll
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\bin\Debug\net8.0\LinqCollectionSample.pdb
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.AssemblyInfo.cs
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.dll
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\refint\LinqCollectionSample.dll
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.pdb
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\LinqCollectionSample.genruntimeconfig.cache
+D:\projects\dotnet\Istka\LinqCollectionSample\LinqCollectionSample\obj\Debug\net8.0\ref\LinqCollectionSample.dll

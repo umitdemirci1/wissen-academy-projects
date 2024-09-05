@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="row">
+    <ul class="navbar-nav">
+        @foreach (var product in Model)
+        {
+            <li class="nav-item">
+                @* <a class="nav-link" asp-action="Details" asp-controller="Product" class="nav-link" asp-route-id="@product.ProductID">
+            @product.ProductName"
+            </a> *@
+                <a href="product-category-@(product.CategoryID)-@(product.CategoryName)-@(product.ProductID)-@(product.ProductName)" class="nav-link">@product.ProductName</a>
+            </li>
+        }
+    </ul>
+</div>

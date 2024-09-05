@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\shared\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\shared\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\shared\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\shared\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|d:\\projects\\dotnet\\istka\\partialviewsample\\partialviewsample\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C587E2-8483-4FDB-BE08-CC13B64FCEC2}|PartialViewSample\\PartialViewSample.csproj|solutionrelative:partialviewsample\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1494,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:55:52.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Shared\\ProductDetail.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\ProductDetail.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Shared\\ProductDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:46:03.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:39:10.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Shared\\ProductList.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\ProductList.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Shared\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:31:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PartialViewSample\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PartialViewSample\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:10:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewSample\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewSample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:57:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PartialViewSample\\Models\\Product.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Models\\Product.cs",
+              "RelativeToolTip": "PartialViewSample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:56:05.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:54:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:48:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:47:44.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "PartialViewSample\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PartialViewSample\\PartialViewSample\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "PartialViewSample\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T05:47:21.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 737,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

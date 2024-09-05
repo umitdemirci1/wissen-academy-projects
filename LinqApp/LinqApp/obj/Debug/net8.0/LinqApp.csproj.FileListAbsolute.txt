@@ -1,0 +1,14 @@
+D:\projects\dotnet\Istka\LinqApp\LinqApp\bin\Debug\net8.0\LinqApp.exe
+D:\projects\dotnet\Istka\LinqApp\LinqApp\bin\Debug\net8.0\LinqApp.deps.json
+D:\projects\dotnet\Istka\LinqApp\LinqApp\bin\Debug\net8.0\LinqApp.runtimeconfig.json
+D:\projects\dotnet\Istka\LinqApp\LinqApp\bin\Debug\net8.0\LinqApp.dll
+D:\projects\dotnet\Istka\LinqApp\LinqApp\bin\Debug\net8.0\LinqApp.pdb
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.AssemblyInfo.cs
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.dll
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\refint\LinqApp.dll
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.pdb
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\LinqApp.genruntimeconfig.cache
+D:\projects\dotnet\Istka\LinqApp\LinqApp\obj\Debug\net8.0\ref\LinqApp.dll

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Haberler Index";
+    Layout = "MasterLayout";
+}
+
+<br />
+<br />
+
+<div class="row">
+    <div class="justify-content-center">
+        <nav class="navbar">
+            <div class="navbar-collapse">
+                <ul class="navbar-nav flex-grow-1 d-flex flex-row">
+                    <li class="nav-item m-4">
+                        <a class="nav-link text-dark" asp-controller="News" asp-action="Index">Haber İçerikleri</a>
+                    </li>
+                    <li class="nav-item m-4">
+                        <a class="nav-link text-dark" asp-controller="News" asp-action="TrumpSuikast">ABD Başkan Adayı Trump Suikasti</a>
+                    </li>
+                    <li class="nav-item m-4">
+                        <a class="nav-link text-dark" asp-controller="News" asp-action="BorsadaDusus">Borsa Endexi Sert Düşüş Yaşadı</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="container">
+    <main class="pb-3">
+        @RenderBody()
+    </main>
+</div>

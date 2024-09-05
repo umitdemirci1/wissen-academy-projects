@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Örnek Controller Index2";
+}
+
+<h1>Örnek Controller ---> Index2</h1>
+
+<div class="justify-content-lg-center">
+    <h1 class="btn btn-danger">@ViewBag.GetDate</h1>
+</div>
+
+@* 
+Data taşıyamıyor ama hata da vermiyor    
+<div class="justify-content-center">
+    <span class="btn btn-primary">@ViewData["Hour"]</span>
+</div> *@
+
+<div class="justify-content-center">
+    <span class="btn btn-primary">@TempData["Day"]</span>
+</div>

@@ -1,0 +1,17 @@
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.csproj.AssemblyReference.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.AssemblyInfo.cs
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.DAL.deps.json
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.DAL.runtimeconfig.json
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.DAL.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.DAL.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.Domain.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\bin\Debug\net8.0\NTierApp.Domain.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.058863D2.Up2Date
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\refint\NTierApp.DAL.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\NTierApp.DAL.genruntimeconfig.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.DAL\obj\Debug\net8.0\ref\NTierApp.DAL.dll

@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "İletişim Formu - Mail Gönder";
+}
+
+<h1 class="bg-info text-white justify-content-center">
+    İletişim Formu
+</h1>
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+        <form asp-action="Index" asp-controller="Mail" method="post">
+            <div id="header">Maili göndermek için formu doldurunuz...</div>
+            <div id="mailTalbe">
+                <table class="table table-bordered table-hover">
+                    <tr>
+                        <td>E-Posta Adresi</td>
+                        <td><b>:</b></td>
+                        <td><input type="text" name="txtEmail" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td>Konu</td>
+                        <td><b>:</b></td>
+                        <td><input type="text" name="txtKonu" class="form-control" /></td>
+                    </tr>
+                    <tr>
+                        <td>Mesaj</td>
+                        <td><b>:</b></td>
+                        <td><textarea class="form-control" name="txtMesaj" rows="15" cols="30" placeholder="Mesajınızı yazınız..."> </textarea></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <input type="submit" name="btnGonder" class="btn btn-outline-success" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </form>
+        <br />
+        <br />
+        <div class="row">
+            <div style="height:200px" class="col-lg-6 bg-danger text-white">
+                @ViewBag.Result
+            </div>
+        </div>
+    </div>
+</div>

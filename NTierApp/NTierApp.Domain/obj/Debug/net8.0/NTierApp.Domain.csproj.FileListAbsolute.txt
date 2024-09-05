@@ -1,0 +1,11 @@
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.deps.json
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\bin\Debug\net8.0\NTierApp.Domain.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.AssemblyInfo.cs
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\refint\NTierApp.Domain.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\NTierApp.Domain.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.Domain\obj\Debug\net8.0\ref\NTierApp.Domain.dll

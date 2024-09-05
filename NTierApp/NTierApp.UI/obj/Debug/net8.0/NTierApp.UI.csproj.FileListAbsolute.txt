@@ -1,0 +1,14 @@
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\bin\Debug\net8.0\NTierApp.UI.exe
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\bin\Debug\net8.0\NTierApp.UI.deps.json
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\bin\Debug\net8.0\NTierApp.UI.runtimeconfig.json
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\bin\Debug\net8.0\NTierApp.UI.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\bin\Debug\net8.0\NTierApp.UI.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.AssemblyInfo.cs
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\refint\NTierApp.UI.dll
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.pdb
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\NTierApp.UI.genruntimeconfig.cache
+D:\projects\dotnet\Istka\NTierApp\NTierApp.UI\obj\Debug\net8.0\ref\NTierApp.UI.dll

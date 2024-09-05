@@ -1,0 +1,49 @@
+﻿@model SystemUser
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <h1 class="bg-info text-white">System User Ekle</h1>
+</div>
+
+<div class="row">
+    <div class="col-lg-8 col-md-8 col-sm-8">
+        <form asp-action="Index" asp-controller="Home" method="post">
+            <div class="mb-3">
+                <label asp-for="UserName" class="form-label">Kullanıcı Adı:</label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="IdentificationNumber" class="form-label">T.C. Kimlik Numarası:</label>
+                <input asp-for="IdentificationNumber" class="form-control" />
+                <span asp-validation-for="IdentificationNumber" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Score" class="form-label">Puan Alanı:</label>
+                <input asp-for="Score" class="form-control" />
+                <span asp-validation-for="Score" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="EmailAddress" class="form-label">E-posta adresi:</label>
+                <input asp-for="EmailAddress" class="form-control" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Şifre:</label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="PasswordConfirmation" class="form-label">Şifre tekrarı:</label>
+                <input asp-for="PasswordConfirmation" class="form-control" />
+                <span asp-validation-for="PasswordConfirmation" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Kayıt ol</button>
+            </div>
+        </form>
+    </div>
+</div>

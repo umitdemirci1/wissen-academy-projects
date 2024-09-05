@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Haberler Index";
+    Layout = "NewsLayout";
+}
+
+<h2 class="bg-info text-white">Güncel Haberler</h2>
+<div class="row">
+    <div class="col-lg-8 col-md-8 col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                Haberler Listesi
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <a asp-action="TrumpSuikastı" asp-controller="News" class="btn btn-out-light">Trump Suikastı</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a asp-action="BorsadaDusus" asp-controller="News" class="btn btn-out-light">BIST 100 Endesi Düşüş</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

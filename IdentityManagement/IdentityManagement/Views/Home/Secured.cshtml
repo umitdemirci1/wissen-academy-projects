@@ -1,0 +1,10 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Authentication";
+}
+<h1 class="bg-info text-white">Secured View</h1>@Model
+
+@if(User?.Identity?.IsAuthenticated ?? false)
+            {
+                <a asp-controller="Account" asp-action="LogOut" class="btn btn-danger">Log Out</a>
+            }

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\NTierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.domain\\filmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|solutionrelative:ntierapp.domain\\filmdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.domain\\filmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|solutionrelative:ntierapp.domain\\filmkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.domain\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|solutionrelative:ntierapp.domain\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.dal\\filmmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|solutionrelative:ntierapp.dal\\filmmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|solutionrelative:ntierapp.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.domain\\oyuncufilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|solutionrelative:ntierapp.domain\\oyuncufilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.domain\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC378129-3348-44F7-814E-953E7EC279CD}|NTierApp.Domain\\NTierApp.Domain.csproj|solutionrelative:ntierapp.domain\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.dal\\migrations\\20240709092143_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F18FD2-AD42-44A6-AB8C-69B4F2E9A2FB}|NTierApp.DAL\\NTierApp.DAL.csproj|solutionrelative:ntierapp.dal\\migrations\\20240709092143_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{671AA99B-8A93-42B7-8900-3DC218C8F29D}|NTierApp.UI\\NTierApp.UI.csproj|d:\\projects\\dotnet\\istka\\ntierapp\\ntierapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{671AA99B-8A93-42B7-8900-3DC218C8F29D}|NTierApp.UI\\NTierApp.UI.csproj|solutionrelative:ntierapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\Oyuncu.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\Oyuncu.cs",
+              "RelativeToolTip": "NTierApp.Domain\\Oyuncu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:07:47.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240709092143_mig_1.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\Migrations\\20240709092143_mig_1.cs",
+              "RelativeDocumentMoniker": "NTierApp.DAL\\Migrations\\20240709092143_mig_1.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\Migrations\\20240709092143_mig_1.cs",
+              "RelativeToolTip": "NTierApp.DAL\\Migrations\\20240709092143_mig_1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:21:44.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OyuncuFilm.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\OyuncuFilm.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\OyuncuFilm.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\OyuncuFilm.cs",
+              "RelativeToolTip": "NTierApp.Domain\\OyuncuFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:04:11.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmKategori.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\FilmKategori.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\FilmKategori.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\FilmKategori.cs",
+              "RelativeToolTip": "NTierApp.Domain\\FilmKategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:02:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmDetay.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\FilmDetay.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\FilmDetay.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\FilmDetay.cs",
+              "RelativeToolTip": "NTierApp.Domain\\FilmDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:00:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmMapping.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\FilmMapping.cs",
+              "RelativeDocumentMoniker": "NTierApp.DAL\\FilmMapping.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\FilmMapping.cs",
+              "RelativeToolTip": "NTierApp.DAL\\FilmMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:06:23.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NTierApp.DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "NTierApp.DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:11:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\BaseClass.cs",
+              "RelativeDocumentMoniker": "NTierApp.Domain\\BaseClass.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.Domain\\BaseClass.cs",
+              "RelativeToolTip": "NTierApp.Domain\\BaseClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:53:46.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "NTierApp.UI\\Program.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\NTierApp\\NTierApp.UI\\Program.cs",
+              "RelativeToolTip": "NTierApp.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:53:20.7Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

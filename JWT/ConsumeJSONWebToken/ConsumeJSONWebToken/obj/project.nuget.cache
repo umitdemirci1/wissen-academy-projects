@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "puWy9GZ0u2A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus Christ Ümit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus Christ Ümit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

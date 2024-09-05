@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\ValidationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\models\\validation\\mailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\models\\validation\\mailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\models\\validation\\identificationnumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\models\\validation\\identificationnumbervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\models\\systemuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\models\\systemuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\models\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\views\\home\\systemuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\views\\home\\systemuserinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|d:\\projects\\dotnet\\istka\\validationapp\\validationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F18A59FA-CE83-4780-8819-6DF8F060650D}|ValidationApp\\ValidationApp.csproj|solutionrelative:validationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2004,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValidationApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValidationApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:06:04.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentificationNumberValidation.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\Validation\\IdentificationNumberValidation.cs",
+              "RelativeDocumentMoniker": "ValidationApp\\Models\\Validation\\IdentificationNumberValidation.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\Validation\\IdentificationNumberValidation.cs",
+              "RelativeToolTip": "ValidationApp\\Models\\Validation\\IdentificationNumberValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:48:35.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemUserInfo.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Home\\SystemUserInfo.cshtml",
+              "RelativeDocumentMoniker": "ValidationApp\\Views\\Home\\SystemUserInfo.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Home\\SystemUserInfo.cshtml",
+              "RelativeToolTip": "ValidationApp\\Views\\Home\\SystemUserInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T15:48:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailValidation.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\Validation\\MailValidation.cs",
+              "RelativeDocumentMoniker": "ValidationApp\\Models\\Validation\\MailValidation.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\Validation\\MailValidation.cs",
+              "RelativeToolTip": "ValidationApp\\Models\\Validation\\MailValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T15:37:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ValidationApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T11:51:45.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemUserValidation.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\SystemUserValidation.cs",
+              "RelativeDocumentMoniker": "ValidationApp\\Models\\SystemUserValidation.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\SystemUserValidation.cs",
+              "RelativeToolTip": "ValidationApp\\Models\\SystemUserValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:55:58.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\SystemUser.cs",
+              "RelativeDocumentMoniker": "ValidationApp\\Models\\SystemUser.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Models\\SystemUser.cs",
+              "RelativeToolTip": "ValidationApp\\Models\\SystemUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:54:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ValidationApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ValidationApp\\ValidationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ValidationApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T06:47:09.906Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 737,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

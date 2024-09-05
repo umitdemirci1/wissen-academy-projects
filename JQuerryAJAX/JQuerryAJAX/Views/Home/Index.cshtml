@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div class="form-control">
+        <div class="form-text mb-2">Buton ile ajax call</div>
+        <button class="btn btn-primary" id="ajaxCallButton">Ajax Call</button>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("#ajaxCallButton").click(function () {
+            var num1 = 100;
+            var num2 = 50;
+
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("Calculate")',
+                data: { number1: num1, number2: num2 },
+                dataType: "json",
+                success: function (result) {
+                    var jsondata = JSON.stringify(result);
+                    console.log(jsondata);
+                    var obj = JSON.parse(jsondata);
+                    console.log(obj.add);
+                    console.log(obj.subtract);
+                    console.log(obj.multiplier);
+                    console.log(obj.divide);
+                    console.log(obj["add"]);
+                    console.log(obj["subtract"]);
+                    console.log(obj["multiplier"]);
+                    console.log(obj["divide"]);
+                },
+                error: function (req, status, error) {
+                    console.log("Status: " + status);
+                    console.log("Error: " + error);
+                    console.log("Response: " + req.responseText);
+                    alert("Personel eklenirken bir hata oluştu.");
+                }
+            });
+        });
+    });
+</script>

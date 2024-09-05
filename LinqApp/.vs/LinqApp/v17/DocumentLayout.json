@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\LinqApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|d:\\projects\\dotnet\\istka\\linqapp\\northwindlinqsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|solutionrelative:northwindlinqsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|d:\\projects\\dotnet\\istka\\linqapp\\northwindlinqsample\\northwinddto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|solutionrelative:northwindlinqsample\\northwinddto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|d:\\projects\\dotnet\\istka\\linqapp\\northwindlinqsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|solutionrelative:northwindlinqsample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB87A0FE-B93A-4C61-B62F-453C35730501}|LinqApp\\LinqApp.csproj|d:\\projects\\dotnet\\istka\\linqapp\\linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB87A0FE-B93A-4C61-B62F-453C35730501}|LinqApp\\LinqApp.csproj|solutionrelative:linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|d:\\projects\\dotnet\\istka\\linqapp\\northwindlinqsample\\northwindlinqsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|solutionrelative:northwindlinqsample\\northwindlinqsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|d:\\projects\\dotnet\\istka\\linqapp\\northwindlinqsample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608756D9-78D8-4ACC-8F2E-0FE7AE393BAB}|NorthwindLinqSample\\NorthwindLinqSample.csproj|solutionrelative:northwindlinqsample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 483,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NorthwindLinqSample\\Models\\Product.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Models\\Product.cs",
+              "RelativeToolTip": "NorthwindLinqSample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:49:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindLinqSample\\Program.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Program.cs",
+              "RelativeToolTip": "NorthwindLinqSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:20:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NorthwindLinqSample\\Models\\Category.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\Models\\Category.cs",
+              "RelativeToolTip": "NorthwindLinqSample\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:49:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\LinqApp\\Program.cs",
+              "RelativeDocumentMoniker": "LinqApp\\Program.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\LinqApp\\Program.cs",
+              "RelativeToolTip": "LinqApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:11:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\NorthwindDTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "NorthwindLinqSample\\NorthwindDTO\\CustomerDTO.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\NorthwindDTO\\CustomerDTO.cs",
+              "RelativeToolTip": "NorthwindLinqSample\\NorthwindDTO\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:40:37.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthwindLinqSample.csproj",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\NorthwindLinqSample.csproj",
+              "RelativeDocumentMoniker": "NorthwindLinqSample\\NorthwindLinqSample.csproj",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\LinqApp\\NorthwindLinqSample\\NorthwindLinqSample.csproj",
+              "RelativeToolTip": "NorthwindLinqSample\\NorthwindLinqSample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T06:33:32.056Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 737,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

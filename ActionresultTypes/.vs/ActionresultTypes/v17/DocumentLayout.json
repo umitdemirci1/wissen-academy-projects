@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\controllers\\fileresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\fileresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\controllers\\contentresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\contentresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\controllers\\statuscoderesultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\statuscoderesultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\controllers\\jsonresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\controllers\\jsonresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|d:\\projects\\dotnet\\istka\\actionresulttypes\\actionresulttypes\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2C314F-5C9F-4EAA-ADD1-1663129F642F}|ActionresultTypes\\ActionresultTypes.csproj|solutionrelative:actionresulttypes\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1494,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileResultController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\FileResultController.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Controllers\\FileResultController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\FileResultController.cs",
+              "RelativeToolTip": "ActionresultTypes\\Controllers\\FileResultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:54:44.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusCodeResultController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\StatusCodeResultController.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Controllers\\StatusCodeResultController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\StatusCodeResultController.cs",
+              "RelativeToolTip": "ActionresultTypes\\Controllers\\StatusCodeResultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:46:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonResultController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\JsonResultController.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Controllers\\JsonResultController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\JsonResultController.cs",
+              "RelativeToolTip": "ActionresultTypes\\Controllers\\JsonResultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:57:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Models\\Address.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Models\\Address.cs",
+              "RelativeToolTip": "ActionresultTypes\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:55:13.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Models\\Employee.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Models\\Employee.cs",
+              "RelativeToolTip": "ActionresultTypes\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:54:28.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentResultController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\ContentResultController.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Controllers\\ContentResultController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Controllers\\ContentResultController.cs",
+              "RelativeToolTip": "ActionresultTypes\\Controllers\\ContentResultController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:33:24.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Program.cs",
+              "RelativeDocumentMoniker": "ActionresultTypes\\Program.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\ActionresultTypes\\ActionresultTypes\\Program.cs",
+              "RelativeToolTip": "ActionresultTypes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:28:47.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 737,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

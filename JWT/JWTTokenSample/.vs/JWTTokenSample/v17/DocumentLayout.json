@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\jwttokensample\\jwttokensample\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|solutionrelative:jwttokensample\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\jwttokensample\\jwttokensample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|solutionrelative:jwttokensample\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\jwttokensample\\jwttokensample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|solutionrelative:jwttokensample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\jwttokensample\\jwttokensample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|solutionrelative:jwttokensample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\jwttokensample\\jwttokensample\\model\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29057EC-4E99-42D5-A3E7-B1319C6F8346}|JWTTokenSample\\JWTTokenSample.csproj|solutionrelative:jwttokensample\\model\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "JWTTokenSample\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "JWTTokenSample\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:30:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Program.cs",
+              "RelativeDocumentMoniker": "JWTTokenSample\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Program.cs",
+              "RelativeToolTip": "JWTTokenSample\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:02:51.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTTokenSample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\appsettings.json",
+              "RelativeToolTip": "JWTTokenSample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T11:43:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "JWTTokenSample\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "JWTTokenSample\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:22:10.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Model\\AuthUser.cs",
+              "RelativeDocumentMoniker": "JWTTokenSample\\Model\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\JWTTokenSample\\JWTTokenSample\\Model\\AuthUser.cs",
+              "RelativeToolTip": "JWTTokenSample\\Model\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:11:34.936Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1889,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

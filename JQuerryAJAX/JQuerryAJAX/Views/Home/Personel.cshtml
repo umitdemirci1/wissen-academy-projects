@@ -1,0 +1,129 @@
+﻿@model Personel
+@{
+    ViewData["Title"] = "Personel Page";
+}
+
+<div class="bg-info text-white">
+    <h1 class="text-dark">Personel Bilgilerini Giriniz...</h1>
+</div>
+
+@* form tagı içerisine konmadı fark edilirse *@
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+        <div class="mb-2">
+            <label class="form-control">Ad : </label>
+            <input type="text" class="form-control" id="txtName" placeholder="İsim giriniz..." required />
+        </div>
+        <div class="mb-2">
+            <label class="form-control">Soyad : </label>
+            <input type="text" class="form-control" id="txtSirName" placeholder="Soyad giriniz..." required />
+        </div>
+        <div class="mb-2">
+            <label class="form-control">Sicil No : </label>
+            <input type="text" class="form-control" id="txtNumber" placeholder="Sicil numaranızı giriniz..." required />
+        </div>
+        <div class="mb-2">
+            <label class="form-control">Departman : </label>
+            <input type="text" class="form-control" id="txtSection" placeholder="Departman giriniz..." required />
+        </div>
+
+        <div class="mb-2">
+            <input type="submit" id="btnPersonel" value="Personel Ekle" class="btn btn-primary" />
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        function openWithPost(ur, data) {
+            var form = document.createElement("form");
+            form.setAttribute("method", "post");
+            form.setAttribute("action", ur);
+            form.setAttribute("target", "_self");
+
+            for (var key in data) {
+                if (data.hasOwnProperty(key)) {
+                    var hiddenField = document.createElement("input");
+                    hiddenField.setAttribute("type", "hidden");
+                    hiddenField.setAttribute("name", key);
+                    hiddenField.setAttribute("value", data[key]);
+
+                    form.appendChild(hiddenField);
+                }
+            }
+
+            document.body.appendChild(form);
+            form.submit();
+        }
+
+
+        $('#btnPersonel').click(function () {
+
+            var personel = {
+                Name: $('#txtName').val(),
+                SirName: $('#txtSirName').val(),
+                Number: $('#txtNumber').val(),
+                Section: $('#txtSection').val()
+            };
+
+            // var name = $('#txtName').val();
+            // var soyad = $('#txtSirName').val();
+            // var number = $('#txtNumber').val();
+            // var section = $('#txtSection').val();
+
+            var domain = "https://localhost:7006/";
+
+            $.ajax({
+                type: 'POST',
+                // // url: '@Url.Action("PersonelDetail")',
+                url: '/Home/Personel',
+                // data: { Name: personel.name, Soyad: soyad, Number: number, Section: section },
+                data: personel,
+                dataType: "json",
+                success: function (data) {
+                    var jsondata = JSON.stringify(data);
+                    console.log(jsondata);
+                    alert("Personel Başarılı bir şekilde eklenmiştir.");
+                    $.ajax({
+                        type: 'POST',
+                        url: domain + 'Home/PersonelDetail',
+                        data: jsondata,
+                        dataType: personel,
+                        success: function (data) {
+                            var convertedData = JSON.stringify(data);
+                            console.log(data);
+                            window.location.href = domain + 'Home/PersonelDetail'
+                        },
+                        error: function (data) {
+                            console.log(data);
+                            alert("Personel eklenirken bir hata oluştu 2.");
+                        }
+                    });
+                },
+                error: function (data) {
+                    console.log(data);
+                    alert("Personel eklenirken bir hata oluştu.");
+                }
+            });
+        });
+    });
+    // function openWindowWithPost(url, data) {
+    //     var form = document.createElement("form");
+    //     form.target = "_blank";
+    //     form.method = "POST";
+    //     form.action = url;
+    //     form.style.display = "none";
+
+    //     for (var key in data) {
+    //         var input = document.createElement("input");
+    //         input.type = "hidden";
+    //         input.name = key;
+    //         input.value = data[key];
+    //         form.appendChild(input);
+    //     }
+    //     document.body.appendChild(form);
+    //     form.submit();
+    //     document.body.removeChild(form);
+    // }
+</script>
+

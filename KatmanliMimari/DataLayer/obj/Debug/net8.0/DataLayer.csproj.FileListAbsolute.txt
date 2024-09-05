@@ -1,0 +1,12 @@
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\projects\dotnet\Istka\KatmanliMimari\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache

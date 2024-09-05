@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|d:\\projects\\dotnet\\istka\\passdataviewandcontrols\\passdataviewandcontrols\\views\\mail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|solutionrelative:passdataviewandcontrols\\views\\mail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|d:\\projects\\dotnet\\istka\\passdataviewandcontrols\\passdataviewandcontrols\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|solutionrelative:passdataviewandcontrols\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|d:\\projects\\dotnet\\istka\\passdataviewandcontrols\\passdataviewandcontrols\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66601502-239F-4CCA-BB79-EACA822501E5}|PassDataViewAndControls\\PassDataViewAndControls.csproj|solutionrelative:passdataviewandcontrols\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 880,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PassDataViewAndControls\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PassDataViewAndControls\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T09:39:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Views\\Mail\\Index.cshtml",
+              "RelativeDocumentMoniker": "PassDataViewAndControls\\Views\\Mail\\Index.cshtml",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Views\\Mail\\Index.cshtml",
+              "RelativeToolTip": "PassDataViewAndControls\\Views\\Mail\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T09:31:13.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailController.cs",
+              "DocumentMoniker": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Controllers\\MailController.cs",
+              "RelativeDocumentMoniker": "PassDataViewAndControls\\Controllers\\MailController.cs",
+              "ToolTip": "D:\\projects\\dotnet\\Istka\\PassDataViewAndControls\\PassDataViewAndControls\\Controllers\\MailController.cs",
+              "RelativeToolTip": "PassDataViewAndControls\\Controllers\\MailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:28:11.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 737,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

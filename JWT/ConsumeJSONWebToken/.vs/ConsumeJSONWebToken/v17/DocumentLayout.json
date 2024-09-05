@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|c:\\users\\jesus christ \u00FCmit\\desktop\\consumejsonwebtoken\\consumejsonwebtoken\\consumejsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9082FADA-B572-4E3A-B803-D19842C4FE9A}|ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj|solutionrelative:consumejsonwebtoken\\consumejsonwebtoken.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\Token.cs",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:17:30.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Models\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:10:13.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Models\\AuthUser.cs",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Models\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:10:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvy8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:03:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Program.cs",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:59:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumeJSONWebToken.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj",
+              "RelativeToolTip": "ConsumeJSONWebToken\\ConsumeJSONWebToken.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T14:10:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T14:25:57.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ConsumeJSONWebToken\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Jesus Christ \u00DCmit\\Desktop\\ConsumeJSONWebToken\\ConsumeJSONWebToken\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ConsumeJSONWebToken\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T11:13:06.724Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1889,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
